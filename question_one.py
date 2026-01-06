@@ -14,7 +14,7 @@ print("GOODREADS QUOTES + ZENQUOTES API")
 print("="*70)
 print("Scraping ONE webpage with 30+ quotes\n")
 
-# PART 1: SCRAPE GOODREADS
+# PART 1: SCRAPE GOODREADS to get quotes
 print("Step 1: Scraping quotes from Goodreads...")
 
 url = "https://www.goodreads.com/quotes"
